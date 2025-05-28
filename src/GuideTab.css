@@ -1,0 +1,29 @@
+.gout{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 17px;
+}
+.Guidecontent{
+    width: 174px;
+    border: 0.2px solid;
+    border-radius: 7px;
+    padding-left: 6px;
+    height: 120px;
+    
+}
+.GuideImage{
+    height: 120px;
+    width: 174px;
+    overflow: hidden;
+    border-radius: 7px;
+
+}
+.GuideImage img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.Guidecontent h5{
+    margin-top: 4px;
+    margin-bottom: 3px;
+}

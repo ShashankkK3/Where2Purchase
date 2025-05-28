@@ -1,0 +1,24 @@
+/* styles.css */
+.search-container {
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  overflow: hidden;
+  width:220px;
+  background-color: #fff;
+}
+
+.search-container input {
+  border: none;
+  padding: 2px 5px;
+  flex: 1;
+  font-size: 5px;
+}
+
+.search-container button {
+  background-color: #00c1d4;
+  border: none;
+  color: white;
+  padding: 0 2px;
+  cursor: pointer;
+}

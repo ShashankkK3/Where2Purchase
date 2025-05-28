@@ -1,0 +1,29 @@
+.outer{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 0.2px solid;
+    border-radius: 5px;
+    box-shadow: 10px;
+    
+}
+.outer h6{
+    font-size: 7px;
+    margin-bottom: 7px;
+}
+.outer p{
+    font-size: 5px;
+}
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background-color:#E3F8FB ;
+}

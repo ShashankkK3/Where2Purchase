@@ -1,0 +1,23 @@
+.Content{
+    display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center;
+  text-align: center;
+  flex-direction:column;
+  padding: 20px;
+  background-color: #E3F8FB;
+  height: 175px;
+
+    
+}
+.Chead span{
+    color:#00A8B5 ;
+}
+.Chead{
+    font-size:19px ;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.Cdes{
+    font-size: 9px;
+}

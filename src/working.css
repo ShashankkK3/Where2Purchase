@@ -1,0 +1,8 @@
+.working{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h6{
+    text-align: center;
+}
