@@ -5,3 +5,6 @@
 ##### 3) cd LandingPage.
 ##### 4) npm install.
 ##### 5) npm run dev.
+
+
+#### Here are the Screenshots of the Landing Page
