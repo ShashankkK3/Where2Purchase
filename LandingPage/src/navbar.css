@@ -13,14 +13,14 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 12px;
+  padding: 0 24px;
   background-color: #ffffff;
-  height: 20px; /* ⬅️ Very short height */
+  height: 80px;
   border-bottom: 1px solid #eee;
 }
 
 .navbar__logo {
-  font-size: 8px; /* ⬅️ Tiny logo text */
+  font-size: 24px;
   font-weight: 700;
   color: #00B3B3;
   white-space: nowrap;
@@ -29,13 +29,13 @@ body {
 .navbar__links {
   display: flex;
   align-items: center;
-  gap: 12px; /* ⬅️ Tight spacing */
+  gap: 24px;
 }
 
 .navbar__links a {
   text-decoration: none;
   color: #333;
-  font-size: 5px; /* ⬅️ Tiny link text */
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -45,9 +45,9 @@ body {
 
 .navbar__links .btn-login,
 .navbar__links .btn-signup {
-  padding: 2px 6px; /* ⬅️ Minimal padding */
-  font-size: 5px;    /* ⬅️ Tiny button text */
-  border-radius: 3px;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 6px;
   font-weight: 500;
   cursor: pointer;
 }

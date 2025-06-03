@@ -2,7 +2,7 @@ import "./GuideTab.css"
 export default function GuideTab({img,head,info,points}){
     const list=points.map((point)=><li>{point}</li>);
     let style={
-        fontSize:"6px",
+        fontSize:"17px",
         
     }
     

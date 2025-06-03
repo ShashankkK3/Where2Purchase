@@ -1,4 +1,4 @@
-import SearchBar from "./searchbar.jsx"
+import SearchBar from "./searchbar"
 import "./content.css"
 export default function Content(){
     return(

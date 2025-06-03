@@ -4,6 +4,9 @@ import "./review.css"
 export default function Reviews(){
     return(
         <>
+        <br />
+        <br />
+        
         <h6>What People Say</h6>
         <div className="review">
             

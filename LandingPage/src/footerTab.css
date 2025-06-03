@@ -1,22 +1,31 @@
 .foot{
-    font-size: 9px;
+    font-size: 16px;
     text-align: left;
-    width: 59px;
-    /* margin: 10px; */
-    margin-top: 25px;
-    margin-left: 12px;
-
+    width: 250px;
+    margin-top: 20px;
+    padding: 0 10px;
 }
+
 .foot h6{
     text-align: left;
+    font-size: 25px;
+    margin-bottom: 16px;
+    color: #333;
 }
+
+.foot p{
+    margin: 8px 0;
+    line-height: 2.5;
+}
+
 .foot p a{
-    font-size: 6px;
+    font-size: 16px;
     text-decoration: none;
-    color: black;
+    color: #666;
+    line-height: 1.8;
 }
+
 .foot p a:hover{
-    
     text-decoration: underline;
     color: #009999;
 }

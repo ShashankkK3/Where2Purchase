@@ -1,22 +1,32 @@
 .gout{
     display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 17px;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
 }
 .Guidecontent{
-    width: 174px;
-    border: 0.2px solid;
-    border-radius: 7px;
-    padding-left: 6px;
-    height: 120px;
-    
-}
-.GuideImage{
-    height: 120px;
-    width: 174px;
-    overflow: hidden;
-    border-radius: 7px;
+    width: 45%;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 40px;
+    min-height: 300px;
+    height: 400px;
+    display: flex;
 
+    
+    flex-direction: column;
+    justify-content: center;
+}
+
+.GuideImage{
+    width: 45%;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 12px;
 }
 .GuideImage img{
     width: 100%;
@@ -24,6 +34,7 @@
     object-fit: cover;
 }
 .Guidecontent h5{
-    margin-top: 4px;
-    margin-bottom: 3px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-size: 32px;
 }

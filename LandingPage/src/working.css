@@ -1,8 +1,17 @@
 .working{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 30px;
+    /* max-width: 1200px; */
+    width: 100%;
+    /* margin: 40px auto; */
+    padding: 0 20px;
 }
 h6{
     text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+    margin-top: 60px;
+    width: 100%;
 }

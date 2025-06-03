@@ -1,29 +1,35 @@
 .outer{
-    height: 100px;
-    width: 100px;
+    height: 340px;
+    width: 400px;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 0.2px solid;
-    border-radius: 5px;
-    box-shadow: 10px;
-    
+    border: 1px solid;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+    margin: 16px;
 }
 .outer h6{
-    font-size: 7px;
-    margin-bottom: 7px;
+    font-size: 30px;
+    margin-bottom: 16px;
+    margin-top: 24px;
 }
 .outer p{
-    font-size: 5px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #666;
 }
 .inner{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 27px;
-    height: 27px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
-    background-color:#E3F8FB ;
+    background-color: #E3F8FB;
+    font-size: 24px;
+    color: #00B3B3;
 }

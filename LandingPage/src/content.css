@@ -1,23 +1,31 @@
 .Content{
     display: flex;
-  justify-content: center; /* centers horizontally */
-  align-items: center;
-  text-align: center;
-  flex-direction:column;
-  padding: 20px;
-  background-color: #E3F8FB;
-  height: 175px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 60px 20px;
+    background-color: #E3F8FB;
+    width: 100%;
+    min-height: 100vh;
+}
 
-    
-}
 .Chead span{
-    color:#00A8B5 ;
+    color: #00A8B5;
 }
+
 .Chead{
-    font-size:19px ;
-    margin-top: 0px;
-    margin-bottom: 5px;
+    font-size: 70px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    max-width: 1200px;
+    width: 100%;
 }
+
 .Cdes{
-    font-size: 9px;
+    font-size: 29px;
+    margin-bottom: 40px;
+    max-width: 800px;
+    width: 100%;
+    line-height: 1.5;
 }
