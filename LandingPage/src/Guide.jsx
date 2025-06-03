@@ -2,6 +2,7 @@ import GuideTab from "./GuideTab.jsx"
 import GuideTab2 from "./GuideTab2.jsx"
 export default function Guide(){
     return(
+        
         <>
         <h6></h6>
         <GuideTab img="https://thumbs.dreamstime.com/b/city-map-transparent-magnifying-glass-abstract-town-plan-vector-d-illustration-127779550.jpg"

@@ -1,4 +1,4 @@
-import FooterTab from "./footerTab";
+import FooterTab from "./footerTab.jsx";
 import "./footer.css"
 export default function Footer() {
     let style={

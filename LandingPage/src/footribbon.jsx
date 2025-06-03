@@ -9,6 +9,7 @@ export default function FootRibbon(){
         marginTop:"30px"
 
     }
+    
     let hstyle={
         marginTop:"10px",
         marginBottom:"2px"

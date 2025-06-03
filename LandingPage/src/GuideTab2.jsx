@@ -5,6 +5,7 @@ export default function GuideTab({img,head,info,points}){
         fontSize:"6px",
         
     }
+    
     return(
         <div className="gout">
             <div className="GuideImage">

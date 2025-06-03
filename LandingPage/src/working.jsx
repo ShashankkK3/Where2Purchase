@@ -1,4 +1,4 @@
-import WorkTabs from "./WorkTabs";
+import WorkTabs from "./WorkTabs.jsx";
 import "./working.css"
 
 export default function Working(){

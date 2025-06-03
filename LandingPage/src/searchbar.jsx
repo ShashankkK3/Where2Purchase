@@ -7,4 +7,5 @@ export default function SearchBar() {
       <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
     </div>
   );
+  
 }

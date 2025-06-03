@@ -1,4 +1,5 @@
 import "./reviewCard.css"
+
 export default function ReviewCard({img,name,who,info}) {
     return (
         <div className="rout">

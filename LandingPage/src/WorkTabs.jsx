@@ -8,6 +8,7 @@ export default function WorkTabs({classs,head,info}){
             <h6>{head}</h6>
             <p>{info}</p>
             
+            
         </div>
     );
 }
